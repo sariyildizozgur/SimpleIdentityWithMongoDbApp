@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gju25D1lJ4ZfuPWHXUHRXb6W/FJJv7vEUvJAghhyipo=",
+  "Source": "SimpleIdentityWithMongoDbApp",
+  "BasePath": "_content/SimpleIdentityWithMongoDbApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
